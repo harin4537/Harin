@@ -1,0 +1,17 @@
+.B{
+    color: black;
+}
+.A{
+    color: blueviolet;
+    text-align: center;
+}
+
+.center{
+    background-color: rgb(159, 54, 54);
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    color: blue;
+}
